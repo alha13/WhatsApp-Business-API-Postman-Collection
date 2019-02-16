@@ -7,7 +7,7 @@
       "value": "<valid webapp url, i.e 'https://localhost:9090'>",
       "type": "text",
       "enabled": true
-    },
+    }, 
     {
       "key": "AdminUsername",
       "value": "<username of whatsapp business client admin>",
